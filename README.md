@@ -32,3 +32,13 @@ http://wujiyang.duoshuo.com/admin/settings/
 
 Hexo站点优化更换主题添加多说评论增加百度统计  
 http://m.blog.csdn.net/article/details?id=51049695
+
+####plugins 
+1. npm install hexo-generator-feed --save  
+在生成的时候会自动生成atom.xml，用来提供别人订阅
+
+2. npm install hexo-deployer-git --save   
+防止无法更新github   
+
+3. npm install hexo-generator-json-content --save     
+站内搜索
