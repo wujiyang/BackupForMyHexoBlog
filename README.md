@@ -28,3 +28,6 @@ http://yotuku.cn/?utm_source=doubangroup#/
 
 多说评论  
 http://wujiyang.duoshuo.com/admin/settings/
+
+Hexo站点优化更换主题添加多说评论增加百度统计  
+http://m.blog.csdn.net/article/details?id=51049695
