@@ -5,11 +5,15 @@ menu:
   随笔: /tags/随笔/
   #类别: /categories/Hexo教程
   技术: /tags/技术/
+  文章归档: /archives
+  相册: /photos
+  #云标签: /tagcloud
+  
 # SubNav
 subnav:
   github: "https://github.com/wujiyang"
   #weibo: "#"
-  rss: "#"
+  rss: "/atom.xml"
   zhihu: "https://www.zhihu.com/people/wujiyang/activities"
   #qq: "#"
   #weixin: "#"
@@ -29,7 +33,6 @@ rss: /atom.xml
 root: 
 
 # Content
-
 # 文章太长，截断按钮文字
 excerpt_link: Reading More
 # 文章卡片右下角常驻链接，不需要请设置为false
@@ -39,17 +42,22 @@ mathjax: false
 # 是否在新窗口打开链接
 open_in_new: false
 
+#文章导航功能
+toc: true
+#是否开启云标签,没有找到选项
+#tagcloud: true
+
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
 
 # 打赏基础设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 1
 # 打赏wording
 reward_wording: '谢谢打赏，继续努力'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: "http://p1.bpimg.com/567571/0dde3e062ded6e2f.jpg"
 # 微信二维码图片地址
-#weixin: "http://p1.bqimg.com/567571/376d50f0e60de5ca.jpg"
+weixin: "http://p1.bqimg.com/567571/376d50f0e60de5ca.jpg"
 
 # Miscellaneous
 # github屏蔽了baiduspyder，所以无法进行站长统计分析，可以加入google分析
@@ -102,7 +110,8 @@ aboutme: >
  华中科技大学计算机学院<br>
  渣渣小硕一枚<br>
  正在程序猿的道路上踽踽前行<br>
- --------------------------------------------<br>
+ -<br>
+ -<br>
  虚拟世界<br>
  你是内存中哪一个孤独的进程?<br>
  现实社会<br>

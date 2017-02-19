@@ -1,6 +1,7 @@
 ---
 title: Hello World
 date: 2017-02-15 12:24:35
+reward: true
 categories: "Hexo教程"
 tags:
 	- Hexo
