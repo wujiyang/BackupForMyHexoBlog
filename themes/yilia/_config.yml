@@ -55,9 +55,9 @@ reward_type: 1
 # 打赏wording
 reward_wording: '谢谢打赏，继续努力'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: "http://p1.bpimg.com/567571/0dde3e062ded6e2f.jpg"
+#alipay: "http://p1.bpimg.com/567571/0dde3e062ded6e2f.jpg"
 # 微信二维码图片地址
-weixin: "http://p1.bqimg.com/567571/376d50f0e60de5ca.jpg"
+weixin: "http://p1.bqimg.com/567571/f8e6470c52f39920.jpg"
 
 # Miscellaneous
 # github屏蔽了baiduspyder，所以无法进行站长统计分析，可以加入google分析
